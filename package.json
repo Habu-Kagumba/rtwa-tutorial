@@ -1,0 +1,16 @@
+{
+  "name": "rtwa-tutorial",
+  "version": "1.0.0",
+  "description": "rtwa tutorial",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Habu-Kagumba/rtwa-tutorial.git"
+  },
+  "author": "Herbert Kagumba",
+  "private": true,
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Habu-Kagumba/rtwa-tutorial/issues"
+  },
+  "homepage": "https://github.com/Habu-Kagumba/rtwa-tutorial#readme"
+}
