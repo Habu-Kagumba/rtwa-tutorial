@@ -12,5 +12,10 @@
   "bugs": {
     "url": "https://github.com/Habu-Kagumba/rtwa-tutorial/issues"
   },
-  "homepage": "https://github.com/Habu-Kagumba/rtwa-tutorial#readme"
+  "homepage": "https://github.com/Habu-Kagumba/rtwa-tutorial#readme",
+  "devDependencies": {
+    "babel-loader": "^5.3.3",
+    "react": "^0.14.2",
+    "webpack": "^1.12.6"
+  }
 }
