@@ -15,7 +15,10 @@
   "homepage": "https://github.com/Habu-Kagumba/rtwa-tutorial#readme",
   "devDependencies": {
     "babel-loader": "^5.3.3",
-    "react": "^0.14.2",
+    "react": "^0.14.3",
     "webpack": "^1.12.6"
+  },
+  "dependencies": {
+    "react-dom": "^0.14.3"
   }
 }
